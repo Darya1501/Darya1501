@@ -1,4 +1,8 @@
-### Hi there 👋
+### Привет, меня зовут Дарья 👋
+- 👩‍🎓 Заканчиваю университет по специальности информационные системы и технологии
+- 💻 Изучаю frontend
+- 📅 Работаю над различными проектами сама и с друзьями
+- 🌆 Люблю хакатоны
 
 <!--
 **Darya1501/Darya1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
