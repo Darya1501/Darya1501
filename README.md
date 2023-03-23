@@ -4,6 +4,14 @@
 - 📅 Работаю над различными проектами сама и с друзьями
 - 🌆 Люблю хакатоны
 
+### Мой стек
+- React.js
+- JavaScript
+- TypeScript
+- Redux
+- Git
+- Sass 
+
 <!--
 **Darya1501/Darya1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
